@@ -59,6 +59,7 @@ Data Scientist con experiencia en proyectos reales de análisis y transformació
 ### Methodologies
 
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat-square&logo=scrumalliance&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat-square)
 ![EDA](https://img.shields.io/badge/EDA-0F6E56?style=flat-square)
 
 ### Tools
