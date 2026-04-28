@@ -8,6 +8,10 @@ Developer · Data Scientist · Santa Fe, Argentina
 
 ---
 
+Data Scientist con experiencia en proyectos reales de análisis y transformación de datos. Trabajo con el stack completo: desde la limpieza y modelado de datos hasta la visualización y construcción de modelos predictivos. Me enfoco en resolver problemas concretos de negocio con datos, entregando insights accionables y soluciones escalables.
+
+---
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -64,11 +68,3 @@ Developer · Data Scientist · Santa Fe, Argentina
 ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat-square&logo=autodesk&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
-
----
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/github/followers/KevinLarguia?label=Follow&style=social)](https://github.com/KevinLarguia)
-
-</div>
