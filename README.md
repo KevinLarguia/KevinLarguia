@@ -6,35 +6,68 @@
 *Transformo datos en decisiones de negocio concretas*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kevinlarguia)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2D2B7F?style=flat-square&logo=githubpages&logoColor=white)](#)
 
 </div>
 
 ---
 
-## Qué tipo de problemas resuelvo
+## Qué hago
 
-**¿Cómo sé cuándo un usuario está a punto de irse?**
-Construyo modelos de churn y sistemas de alertas tempranas que detectan señales de desenganche antes de que ocurran, dándole tiempo a los equipos de retención para actuar.
+Construyo soluciones de datos end-to-end: desde la limpieza y modelado hasta modelos predictivos y dashboards listos para tomar decisiones. Me interesa el problema de negocio detrás del dato, no solo la técnica.
 
-**¿Cómo convierto datos históricos desordenados en un activo útil?**
-Diseño pipelines ETL que limpian, normalizan y estructuran años de datos legacy — transformándolos en bases relacionales consultables y dashboards accionables.
+Trabajo en proyectos de **predicción y clasificación** (churn, conversión, comportamiento de usuarios), **NLP y procesamiento de texto**, **pipelines ETL y modernización de datos legacy**, **sistemas de recomendación**, y **agentes de IA con LLMs**.
 
-**¿Qué va a hacer el precio de una acción después de los resultados trimestrales?**
-Combino NLP sobre transcripciones de earnings calls con señales cuantitativas (EPS surprise, momentum) para anticipar movimientos del mercado post-anuncio.
-
-**¿Cómo hago que un sistema de IA recuerde y aprenda de mi trabajo?**
-Construyo agentes con memoria persistente y context engineering — LLMs que se adaptan a tu forma de pensar en lugar de empezar desde cero cada conversación.
-
-**¿Qué curso debería tomar este estudiante?**
-Sistemas de recomendación que combinan comportamiento histórico y similitud de contenido para personalizar la experiencia de aprendizaje a escala.
+Entrego código limpio, documentado y orientado a resultados medibles.
 
 ---
 
 ## Stack
 
-`Python` `SQL` `Scikit-learn` `XGBoost` `LightGBM` `TensorFlow` `FinBERT` `NLP` `RLHF`
-`Claude API` `OpenAI API` `Prompt Engineering` `RAG` `Power BI` `Tableau` `PostgreSQL` `ETL` `Docker`
+**Lenguajes**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+**ML / IA**
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logo=xgboost&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-2C5F2E?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-8B5CF6?style=flat-square)
+![RLHF](https://img.shields.io/badge/RLHF-6D28D9?style=flat-square)
+
+**LLMs & IA Generativa**
+
+![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=flat-square)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-0F6E56?style=flat-square)
+
+**Data & BI**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=googleanalytics&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL_Pipelines-1D9E75?style=flat-square)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**Bases de Datos**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+**Herramientas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 ---
 
