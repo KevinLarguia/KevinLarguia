@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 # Kevin Larguia
 **DevOps Engineer — CRM & AI Automation**
@@ -22,7 +22,7 @@ Entrego infraestructura y código limpio, documentado y orientado a resultados m
 
 ---
 
-<div align="center">
+<div>
 
 `larguiakevin@gmail.com`
 
