@@ -8,7 +8,7 @@ Me interesa la confiabilidad y la escalabilidad del sistema, no solo el código.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kevinlarguia)
 
-<div align="center">
+<div>
 
 ---
 
