@@ -8,7 +8,7 @@ Me interesa la confiabilidad y la escalabilidad del sistema, no solo el código.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kevinlarguia)
 
-</div>
+<div align="center">
 
 ---
 
@@ -19,6 +19,7 @@ Actualmente trabajo en el desarrollo, mantenimiento y hardening de un CRM (Supab
 Vengo de proyectos de ETL, modernización de datos legacy, y modelos de predicción y clasificación (churn, conversión, comportamiento de usuarios) — esa base técnica es la que aplico ahora para construir sistemas estables, monitoreados y listos para escalar.
  
 Entrego infraestructura y código limpio, documentado y orientado a resultados medibles.
+
 ---
 
 <div align="center">
