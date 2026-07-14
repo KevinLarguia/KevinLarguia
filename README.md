@@ -1,4 +1,4 @@
-<div>
+<div allign=center>
 
 # Kevin Larguia
 **DevOps Engineer — CRM & AI Automation**
